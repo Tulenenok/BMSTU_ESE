@@ -19,8 +19,8 @@ pip install matplotlib
 
 ### Запуск программы
 
-```bash
-cd /Users/gurovana/Documents/BMSTU/ese/lab_06/main.py
+```
+python3 main.py
 ```
 
 ### Получить exe-файл
